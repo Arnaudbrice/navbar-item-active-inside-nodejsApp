@@ -1,3 +1,2 @@
 # navbar-item-active-inside-nodejsApp
-
-add active class  to the current bootstrap navbar item  inside a nodejs App on click.
+setting  bootstrap  navbar-item active class  on click event inside nodejs 
